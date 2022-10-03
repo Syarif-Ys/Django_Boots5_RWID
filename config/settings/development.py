@@ -12,5 +12,5 @@ DATABASES = {
 
 # Override Installed Apps
 INSTALLED_APPS += [
-    'blog.apps.BlogConfig'
+    'blog.apps.BlogConfig',
 ]
